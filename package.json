@@ -1,0 +1,14 @@
+{
+  "name": "udemy",
+  "version": "1.0.0",
+  "description": "curso udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "italo",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^3.6.0"
+  }
+}
