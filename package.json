@@ -10,5 +10,8 @@
   "license": "MIT",
   "devDependencies": {
     "cypress": "^3.6.0"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1"
   }
 }
